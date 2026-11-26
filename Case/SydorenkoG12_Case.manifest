@@ -1,0 +1,10 @@
+{
+  "autodeskProduct": "Fusion360",
+  "type": "script",
+  "author": "SydorenkoG12",
+  "description": {
+    "": "Enclosure for the Yalynka PCB (case + stand)"
+  },
+  "supportedOS": "windows|mac",
+  "editEnabled": true
+}
